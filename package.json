@@ -1,7 +1,6 @@
 {
   "name": "zadanie_19_3",
   "version": "1.0.0",
-  "description": "",
   "main": "actions.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +8,21 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "uuid": "^3.1.0"
-  }
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-node6": "^11.0.0",
+    "react": "^16.2.0",
+    "redux": "^3.7.2",
+    "uuid": "^3.1.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soroz30/Zadanie_19_3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soroz30/Zadanie_19_3/issues"
+  },
+  "homepage": "https://github.com/soroz30/Zadanie_19_3#readme",
+  "description": ""
 }
